@@ -1,0 +1,6 @@
+*.mf
+*.project
+*.classpath
+test
+nbproject
+build
